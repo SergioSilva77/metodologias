@@ -63,3 +63,4 @@ Gerenciamento de Problemas
 1. Esse processo ajuda a identificar as causas raizes do incidente
 2. Implementar medidas preventivas para evitar futuros incidentes
 3. Envolve {identificação, analise e resolução}
+4.
